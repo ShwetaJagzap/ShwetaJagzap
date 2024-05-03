@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shweta Jagzap</h1>
 <h3 align="center">A passionate Data Analysis from India</h3>
-
+<img align ="right" alt="coding"width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetajagzap&label=Profile%20views&color=0e75b6&style=flat" alt="shwetajagzap" /> </p>
 
 - 🔭 I’m currently working on **Head Count and Image Recognization Using Yolo Model**
